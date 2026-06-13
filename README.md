@@ -1,6 +1,6 @@
 # Hey 👋 I'm Samarth Chugh
 
-    [![Zap](https://img.shields.io/badge/Project-Zap-blue)](https://github.com/Sam3360/Zap)
+[![Zap](https://img.shields.io/badge/Project-Zap-blue)](https://github.com/Sam3360/Zap)
     
 ```js
 const samarth = {
