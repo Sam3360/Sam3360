@@ -13,6 +13,7 @@ const samarth = {
         "Web Development"
     ],
     currentlyBuilding: "[Zap](https://github.com/Sam3360/Zap)",
+    [![Zap](https://img.shields.io/badge/Project-Zap-blue)](https://github.com/Sam3360/Zap)
     motto: "Learn. Build. Improve."
 };
 ```
