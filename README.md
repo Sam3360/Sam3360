@@ -12,7 +12,7 @@ const samarth = {
         "Blender",
         "Web Development"
     ],
-    currentlyBuilding: "Zap",
+    currentlyBuilding: "[Zap](https://github.com/Sam3360/Zap)",
     motto: "Learn. Build. Improve."
 };
 ```
