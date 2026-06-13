@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey 👋 I'm Samarth Chugh
 
-<!--
-**Sam3360/Sam3360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const samarth = {
+    username: "Sam3360",
+    role: "Student",
+    school: "Vasudev C. Wadhwa Arya Vidya Mandir",
+    interests: [
+        "Programming",
+        "Arduino",
+        "Robotics",
+        "Blender",
+        "Web Development"
+    ],
+    currentlyBuilding: "Zap",
+    motto: "Learn. Build. Improve."
+};
+```
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+- Building web applications
+- Learning new technologies
+- Creating Arduino and robotics projects
+- Experimenting with 3D design in Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sam3360&show_icons=true)
+
+### 🌱 Currently Learning
+- Advanced JavaScript
+- Full-stack development
+- Robotics and automation
