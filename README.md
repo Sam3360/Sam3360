@@ -7,7 +7,6 @@
 
 [![Zap](https://img.shields.io/badge/🚀_Check_Out-Zap-181717?style=for-the-badge&logo=github)](https://github.com/Sam3360/Zap)
 
-[![Zap](https://img.shields.io/badge/⚡_Zap-Messaging_PWA-5865F2?style=for-the-badge)](https://github.com/Sam3360/Zap)
 
 
 ---
