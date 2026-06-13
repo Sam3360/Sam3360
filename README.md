@@ -1,7 +1,7 @@
 # Hey 👋 I'm Samarth Chugh
 ---
 
-[![Zap](https://img.shields.io/badge/⚡_FEATURED_PROJECT-ZAP-00D9FF?style=for-the-badge)](https://github.com/Sam3360/Zap)
+[![Zap](https://img.shields.io/badge/⚡_FEATURED_PROJECT-ZAP-22D3EE?style=for-the-badge)](https://github.com/Sam3360/Zap)
 
 
 ---
