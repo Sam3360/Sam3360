@@ -3,6 +3,10 @@
 
 # [![Zap](https://img.shields.io/badge/⚡_FEATURED_PROJECT-ZAP-25D366?style=for-the-badge)](https://github.com/Sam3360/Zap)
 
+🚀 **Zap** is my flagship project — a next-generation messaging and community platform built as a Progressive Web App (PWA). Inspired by the best parts of WhatsApp and Discord, Zap focuses on fast performance, a modern interface, community interaction, and seamless access across desktop and mobile devices.
+
+---
+
 # [![CURRENT PROJECT](https://img.shields.io/badge/🚧_CURRENT_PROJECT-RoadGuard_AI-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Sam3360/roadguard-ai)
 
 
