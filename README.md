@@ -23,6 +23,7 @@ const samarth = {
         "Arduino",
         "Robotics",
         "Blender",
+        "Python",
         "Web Development"
     ],
     currentlyBuilding: "Zap"
