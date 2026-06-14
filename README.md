@@ -3,6 +3,9 @@
 
 # [![Zap](https://img.shields.io/badge/⚡_FEATURED_PROJECT-ZAP-25D366?style=for-the-badge)](https://github.com/Sam3360/Zap)
 
+# [![CURRENT PROJECT](https://img.shields.io/badge/🚧_CURRENT_PROJECT-RoadGuard_AI-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)]([https://github.com/Sam3360/RoadGuard-AI](https://sam3360.github.io/roadguard-ai/index.html))
+
+
 
 ---
     
