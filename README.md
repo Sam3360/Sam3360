@@ -26,7 +26,7 @@ const samarth = {
         "Python",
         "Web Development"
     ],
-    currentlyBuilding: "Zap"
+    currentlyBuilding: "ModuForgeX"
     motto: "Learn. Build. Improve."
 };
 ```
