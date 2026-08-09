@@ -46,3 +46,6 @@ const samarth = {
 - Full-stack development
 - Robotics and automation
 
+### Wanna Talk? 💬
+https://sam3360.base44.app/
+
