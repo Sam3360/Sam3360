@@ -47,5 +47,4 @@ const samarth = {
 - Robotics and automation
 
 ### Wanna Talk? 💬
-https://sam3360.base44.app/
-
+[Click Here](https://sam3360.github.io/ContactMe/)
