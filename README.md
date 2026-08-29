@@ -7,7 +7,7 @@
 
 ---
 
-# [![CURRENT PROJECT](https://img.shields.io/badge/🚧_CURRENT_PROJECT-RoadGuard_AI-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Sam3360/roadguard-ai)
+# [![CURRENT PROJECT](https://img.shields.io/badge/🔐_CURRENT_PROJECT-SecretShield-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/localghosters/discussions/1)
 
 
 
