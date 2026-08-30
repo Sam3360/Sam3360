@@ -15,6 +15,7 @@ sam3360 --github
 ```
 That's it. It'll show you my info directly in your CMD/terminal.
 
+---
 
 # [![Zap](https://img.shields.io/badge/⚡_FEATURED_PROJECT-ZAP-25D366?style=for-the-badge)](https://github.com/Sam3360/Zap)
 
