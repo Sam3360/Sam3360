@@ -11,7 +11,7 @@ pip install sam3360
 
 Then run:
 ```
-sam3360 --github
+sam3360
 ```
 That's it. It'll show you my info directly in your CMD/terminal.
 
