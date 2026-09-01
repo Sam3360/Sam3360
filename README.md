@@ -23,7 +23,7 @@ That's it. It'll show you my info directly in your CMD/terminal.
 
 ---
 
-# [![CURRENT PROJECT](https://img.shields.io/badge/🔐_CURRENT_PROJECT-SecretShield-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/localghosters/discussions/1)
+# [![CURRENT PROJECT](https://img.shields.io/badge/🛡️_CURRENT_PROJECT-SecretShield-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/localghosters/discussions/1)
 
 
 
