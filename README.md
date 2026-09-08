@@ -53,14 +53,6 @@ const samarth = {
 - Creating Arduino and robotics projects
 - Experimenting with 3D design in Blender
 
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Sam3360&show_icons=true)
-
-### 🌱 Currently Learning
-- Advanced JavaScript
-- Full-stack development
-- Robotics and automation
 
 ### Wanna Talk? 💬
 [Click Here](https://sam3360.github.io/ContactMe/)
