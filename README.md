@@ -51,7 +51,7 @@ const samarth = {
 - Building web applications
 - Learning new technologies
 - Creating Arduino and robotics projects
-- Experimenting with 3D design in Blender
+
 
 
 ### Wanna Talk? 💬
