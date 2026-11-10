@@ -36,7 +36,7 @@ const samarth = {
         "Python",
         "Web Development"
     ],
-    currentlyBuilding: "secretshield"
+    currentlyBuilding: "secretshield & Parcel"
     motto: "Learn. Build. Improve."
 };
 ```
