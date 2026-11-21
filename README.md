@@ -55,6 +55,9 @@ const samarth = {
   <img src="https://streak-stats.demolab.com/?user=Sam3360&theme=tokyonight" height="165" />
 </p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sam3360&langs_count=15&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Sam3360&langs_count=15&theme=transparent)
+
+
 ---
 
 
